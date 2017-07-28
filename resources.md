@@ -11,5 +11,6 @@
 
 
 
-##MicroMouse
+## MicroMouse
 [Society of Robots](http://www.societyofrobots.com/)
+[FloodAlgorithm](http://www.micromouseonline.com/micromouse-book/mazes-and-maze-solving/faster-maze-solving/)
